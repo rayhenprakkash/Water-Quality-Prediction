@@ -155,29 +155,7 @@ streamlit run app.py
 # 📸 Application Preview
 
 ```
----------------------------------------
- Water Pollutants Predictor
----------------------------------------
-
-Enter Year:
-2025
-
-Enter Station ID:
-1
-
-[ Predict ]
-
----------------------------------------
-Predicted Pollutants
-
-O₂   : 8.12
-NO₃  : 3.41
-NO₂  : 0.25
-SO₄  : 15.83
-PO₄  : 0.92
-Cl   : 34.27
----------------------------------------
-```
+https://github.com/rayhenprakkash/Water-Quality-Prediction/edit/main/sample%20output/output%20sample.png
 
 ---
 
