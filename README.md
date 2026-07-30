@@ -155,7 +155,11 @@ streamlit run app.py
 # 📸 Application Preview
 
 ```
-https://github.com/rayhenprakkash/Water-Quality-Prediction/edit/main/sample%20output/output%20sample.png
+## 📸 Application Screenshot
+
+<p align="center">
+  <img src="sampleoutput/output.png" alt="Water Quality Prediction" width="900">
+</p>
 
 ---
 
