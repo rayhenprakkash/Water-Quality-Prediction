@@ -52,7 +52,7 @@ The model predicts:
 # 🏗 Project Structure
 
 ```
-water-quality-prediction/
+Water-Quality-Prediction/
 │
 ├── app.py                     # Streamlit Application
 ├── WaterQualityPred.ipynb     # Model Training Notebook
@@ -129,13 +129,13 @@ Prediction Results
 Clone the repository
 
 ```bash
-git clone https://github.com/rayhenprakkash/water-quality-prediction.git
+git clone https://github.com/rayhenprakkash/Water-Quality-Prediction.git
 ```
 
 Move into the project folder
 
 ```bash
-cd water-quality-prediction
+cd Water-Quality-Prediction
 ```
 
 Install dependencies
