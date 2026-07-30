@@ -152,16 +152,13 @@ streamlit run app.py
 
 ---
 
-# 📸 Application Preview
-
-```
 ## 📸 Sample Output
 
 <p align="center">
   <img src="sample%20output/output.png" alt="Sample Output" width="900">
 </p>
 
----
+```
 
 # 📈 Future Improvements
 
@@ -173,7 +170,7 @@ streamlit run app.py
 - Cloud Deployment
 - User Authentication
 - Prediction History Dashboard
-
+  
 ---
 
 # 🎯 Applications
