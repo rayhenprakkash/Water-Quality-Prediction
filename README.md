@@ -155,10 +155,10 @@ streamlit run app.py
 # 📸 Application Preview
 
 ```
-## 📸 Application Screenshot
+## 📸 Sample Output
 
 <p align="center">
-  <img src="sampleoutput/output.png" alt="Water Quality Prediction" width="900">
+  <img src="sample%20output/output.png" alt="Sample Output" width="900">
 </p>
 
 ---
